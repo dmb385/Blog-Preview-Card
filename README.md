@@ -16,4 +16,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://dmb385.github.io/Blog-Preview-Card/
